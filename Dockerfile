@@ -1,5 +1,4 @@
 from ubuntu:trusty
-maintainer Alexander Schittler <a.schittler@77ps.de>
 
 volume ["/app/data"]
 
